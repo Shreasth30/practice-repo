@@ -28,3 +28,5 @@ public class MultiLevelInheritanceDemo {
         obj.displayC(); // Own method
     }
 }
+// this is a multi level inheritance example in java 
+// Output:
